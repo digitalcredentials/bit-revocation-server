@@ -1,0 +1,20 @@
+{
+    "defaultSeverity": "error",
+    "source.fixAll.tslint": true,
+    "extends": [
+        "tslint:recommended",
+        "tslint-config-prettier",
+        "tslint-config-airbnb"
+    ],
+    "jsRules": {},
+    "rules": {
+        "trailing-comma": [false],
+        "import-name": [false],
+        "variable-name": [false],
+        "function-name": [false],
+        "no-unused-expression": [false],
+        "no-console": [false]
+    },
+    "rulesDirectory": []
+
+}
